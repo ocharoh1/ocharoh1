@@ -1,5 +1,5 @@
 
-Hello! 👋👋 I'm Maurice Michael, a passionate developer always eager to learn more about web development. I enjoy creating innovative solutions and exploring new technologies. When I'm not coding, you can find me playing football. I'm excited to share my journey and connect with others in the tech community!
+Hello! 👋 I'm Maurice Michael, a passionate developer always eager to learn more about web development. I enjoy creating innovative solutions and exploring new technologies. When I'm not coding, you can find me playing football. I'm excited to share my journey and connect with others in the tech community!
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/holy_goon1) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MichaelOcharo) 
 
